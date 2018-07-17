@@ -1,0 +1,29 @@
+body {
+  background-color: #333;
+  color: #fff;
+  height: 80vh;
+  margin-right:15%;
+  margin-left:15%;
+}
+.welcome {
+  margin-top: 2%;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 3vw;
+  text-align: center;
+}
+.section_1 {
+    margin-top: 4%;
+}
+.section_2, .section_3, .section_4 {
+    margin-top: 2%;
+}
+.about_webcheap {
+  text-align: justify;
+  margin-top: 2%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5vw;
+}
+.container{
+  height: 100%;
+  display: flex;
+}

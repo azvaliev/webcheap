@@ -1,0 +1,19 @@
+body {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  height: 80vh;
+}
+.welcome {
+  margin-top: 2%;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.welcomestatement {
+  font-family: 'Montserrat', sans-serif;
+}
+.container{
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
