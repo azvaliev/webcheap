@@ -27,3 +27,45 @@ body {
   height: 100%;
   display: flex;
 }
+
+/*
+wake me up when september ends
+*/
+
+@media (max-width: 480px) {
+  
+  body {
+  background-color: #333;
+  color: #fff;
+  height: 80vh;
+  margin-right:10%;
+  margin-left:10%;
+}
+.welcome {
+  margin-top: 1%;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 6vw;
+  text-align: center;
+}
+.section_1 {
+    margin-top: 2%;
+    font-size: 4vw;
+}
+.section_2, .section_3, .section_4 {
+  margin-top: 1%;
+  font-size: 4vw;
+}
+.about_webcheap {
+  text-align: justify;
+  margin-top: 1%;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.1vw;
+}
+.container{
+  height: 100%;
+  display: flex;
+}
+  
+  
+  
+}
