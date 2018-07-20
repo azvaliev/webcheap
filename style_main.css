@@ -27,6 +27,14 @@ body {
   height: 100%;
   display: flex;
 }
+a {
+  font-family: 'Noto Sans', sans-serif;  
+}
+hr {
+  border-style: solid;
+  border-color: #4c4c4c;
+  width: 48%; 
+}
 
 /*
 wake me up when september ends
@@ -65,7 +73,15 @@ wake me up when september ends
   height: 100%;
   display: flex;
 }
+a {
+  font-family: 'Noto Sans', sans-serif;  
+}
+  hr {
+  border-style: solid;
+  border-color: #4c4c4c;
+  width: 80%; 
   
+  }
   
   
 }
